@@ -1,6 +1,9 @@
 # HookBot Android Malware Builder Panel and APK Source 
 This repository contains a few leaked files of HookBot. To ensure it is not used for malicious purposes, certain files have been modified and restricted from execution.
 
+```
+password: infected
+```
 ![image](https://github.com/0xperator/hookbot_source/assets/128931853/c486162f-6615-47e3-a94b-612242a6551f)
 
 # File Tree
